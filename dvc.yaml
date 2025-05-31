@@ -1,0 +1,7 @@
+stages:
+  train_model:
+    cmd: python assignment1/TrainModel_LiverDisease.py
+    deps:
+    - assignment1/liver_disease.csv
+    outs:
+    - assignment1/model.pkl
