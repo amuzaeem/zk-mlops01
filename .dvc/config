@@ -1,4 +1,1 @@
-[core]
-    remote = main
-['remote "main"']
-    url = https://github.com/amuzaeem/zk-mlops01/tree/main/assignment1
+
