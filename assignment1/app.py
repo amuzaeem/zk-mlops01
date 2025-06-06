@@ -30,8 +30,8 @@ def predict():
 
     # Ensure correct column order
     input_data = input_data[['Age', 'Total_Bilirubin', 'Direct_Bilirubin',
-                             'Alkaline_Phosphatase',
-                             'Alanine_Aminotransferase',
+                             'Alkaline_Phosphotase',
+                             'Alamine_Aminotransferase',
                              'Aspartate_Aminotransferase',
                              'Total_Proteins',
                              'Albumin', 'Albumin_and_Globulin_Ratio']]
