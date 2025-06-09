@@ -1,4 +1,0 @@
-[core]
-    remote = main
-['remote "main"']
-    url = ../versions
